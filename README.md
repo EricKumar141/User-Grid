@@ -1,6 +1,6 @@
 Time to Complete 16 hours
 - Mainly due not being able to get vuetify to work on stackblitz or code sandbox whether importing vuetify to project or forking someone elses starter vue with vuetify project.
-
+- Ultimaley decided to make git repo and deploy to live server/sandbox
 
 # myapp
 
